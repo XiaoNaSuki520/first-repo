@@ -1,2 +1,3 @@
-assess.log
+temp/
+assess.log other.log some.log
 *.log
